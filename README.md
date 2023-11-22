@@ -1,8 +1,9 @@
-# React + Vite
+This application is built in React and vite.
+For the state management, I have used the react-redux toolkit. It's a practice project for this toolkit.
+I follow this tutorial from the YouTube channel. I have added the following functionalities in it i-e my contribution are:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+=> Add the update todo functionalities.
+=> Add the Remove all Functionalities in it.
+=> Use the TailwindCss for it.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn the basics of the react-redux toolkit from it.
