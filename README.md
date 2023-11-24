@@ -5,5 +5,5 @@ I follow this tutorial from the YouTube channel. I have added the following func
 => Add the update todo functionalities.
 => Add the Remove all Functionalities in it.
 => Use the TailwindCss for it.
-
+=> I have also added the localstorage method which saves the todos on refreshing the page. Its also done through the redux.
 Learn the basics of the react-redux toolkit from it.
